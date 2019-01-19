@@ -2,7 +2,7 @@
 流媒体视频网站
 
 ### 架构
-![](http://github.com/ankerleng/video_server/resource/SiteStructure.png)
+![](https://github.com/AnkerLeng/video_server/blob/master/resource/SiteStructure.png)
 
 
 ### 使用的库
