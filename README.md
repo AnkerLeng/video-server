@@ -3,4 +3,8 @@
 
 
 
-httprouter: https://github.com/julienschmidt/httprouter
+httprouter:
+- https://github.com/julienschmidt/httprouter
+
+mysql
+- https://github.com/go-sql-driver/mysql
